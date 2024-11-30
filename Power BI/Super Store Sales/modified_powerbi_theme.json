@@ -1,0 +1,16 @@
+{
+  "name": "Soft Elegant Theme",
+  "dataColors": ["#FFB347", "#A2DFF7", "#A8E6CF", "#FFDFD3", "#B3A2FF", "#F6A1C0", "#D0E8FF", "#F0E68C"],
+  "background": "#F9F9F9",
+  "foreground": "#5D6D7E",
+  "tableAccent": "#A8E6CF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "foreground": [{ "solid": { "color": "#5D6D7E" } }],
+        "fontFamily": "Verdana"
+      }
+    }
+  }
+}
